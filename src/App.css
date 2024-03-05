@@ -8,7 +8,9 @@
 }
 
 body {
-  background: #8758ff;
+  background:rgb(3, 142, 142);
+  background-size: cover;
+  background-repeat: no-repeat;
   display: flex;
   justify-content: center;
   align-items: center;
